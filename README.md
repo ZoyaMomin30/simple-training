@@ -1,1 +1,1 @@
-#A simple data trainig of different algorithms
+## A simple data trainig of different algorithms
